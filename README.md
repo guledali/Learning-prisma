@@ -1,7 +1,26 @@
-# Learning prisma and apollo cd into server if you have docker installed and running
+# Learning prisma
 
-## Run the command  `docker-compose up -d` This will copy the image
+Learning prisma and apollo
 
-### next run `yarn dev` after that `prisma deploy` make sure that you're server is running
+## Getting Started
 
-#### Now you have prisma working locally back to to your react app and yarn start
+Install both prisma and the graphql-cli
+
+### Prerequisites
+
+Install docker
+
+
+### Installing
+
+When you have docker installed and make sure it's running, cd into server run the command `docker-compose up -d` this will copy mysql image locally. Next run `yarn dev` to boot up you're server and then `prisma deploy`.
+
+
+
+
+
+
+
+
+
+
